@@ -25,7 +25,7 @@ It allows users to dynamically add new cards (with thumbnail, duration, title, c
 Clone the repository and open the game in your browser:  
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/muhammad-husnain-ali-web/youtube-card-design.git
 cd tic-tac-toe
 ```
 
