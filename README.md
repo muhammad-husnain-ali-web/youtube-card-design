@@ -15,6 +15,16 @@ It allows users to dynamically add new cards (with thumbnail, duration, title, c
 
 ---
 
+## 🛠️ Built With
+
+- HTML5
+
+- CSS3 (Flexbox)
+- JavaScript (DOM Manipulation)
+
+---
+
+
 ## 🖼️ Screenshot
 
 ![YouTube Card Screenshot](/screenshot.png)
